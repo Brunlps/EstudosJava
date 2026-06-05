@@ -2,6 +2,17 @@ package src.introducao;
 
 public class Aula03Operadores2 {
     static void main() {
+        /* =========== TABELA VERDADE ===========
+
+         *  (AND) -> &&          (OR) -> ||
+         *  V && V = V           V || V = V
+         *  V && F = F           F || V = V
+         *  F && V = F           V || F = V
+         *  F && F = F           F || F = F
+         *TODAS DEVEM SER        PELO MENOS 1 DEVE SER VERDADEIRA
+         *VERDADEIRAS!
+         * */
+
     // &&  (AND) - As duas condições deve ser verdadeiras
         int idade = 30;
         float salario = 3567;

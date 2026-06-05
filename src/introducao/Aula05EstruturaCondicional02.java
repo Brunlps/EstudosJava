@@ -1,6 +1,6 @@
 package src.introducao;
 
-public class Aula04EstruturaCondicional02 {
+public class Aula05EstruturaCondicional02 {
     static void main() {
         // idade < 15 -> categoria infantil
         // idade >= 15 && idade < 18 -> categoria juvenil
