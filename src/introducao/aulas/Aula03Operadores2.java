@@ -1,4 +1,4 @@
-package src.introducao;
+package src.introducao.aulas;
 
 public class Aula03Operadores2 {
     static void main() {

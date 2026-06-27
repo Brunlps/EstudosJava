@@ -1,4 +1,4 @@
-package src.introducao;
+package src.introducao.exercicios;
 
 public class Exercicio04TaxaSalario {
     static void main(String[] args) {

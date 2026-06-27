@@ -1,4 +1,4 @@
-package src.introducao;
+package src.introducao.exercicios;
 
 public class Exercicio07ValorDeParcelasDoCarro {
     static void main(String[] args) {

@@ -1,6 +1,4 @@
-package src.introducao;
-
-import java.util.Scanner;
+package src.introducao.aulas;
 
 public class Aula02Operadores {
     static void main() {

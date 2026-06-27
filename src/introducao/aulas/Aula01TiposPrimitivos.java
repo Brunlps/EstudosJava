@@ -1,4 +1,4 @@
-package src.introducao;
+package src.introducao.aulas;
 
 public class Aula01TiposPrimitivos {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.introducao;
+package src.introducao.aulas;
 
 public class ManipuladoStrings {
     static void main(String[] args) {

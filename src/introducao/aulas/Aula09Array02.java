@@ -1,7 +1,4 @@
-package src.introducao;
-
-import javax.xml.transform.Source;
-import java.util.Scanner;
+package src.introducao.aulas;
 
 public class Aula09Array02 {
     static void main(String[] args) {

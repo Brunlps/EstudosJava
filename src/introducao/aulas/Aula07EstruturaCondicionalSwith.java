@@ -1,4 +1,4 @@
-package src.introducao;
+package src.introducao.aulas;
 
 import java.util.Scanner;
 

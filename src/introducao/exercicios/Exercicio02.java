@@ -1,9 +1,7 @@
-package src.introducao;
+package src.introducao.exercicios;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-import java.util.Locale.*;
 
 public class Exercicio02 {
     public static void main(String[] args) {

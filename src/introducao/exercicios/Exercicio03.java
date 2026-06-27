@@ -1,4 +1,4 @@
-package src.introducao;
+package src.introducao.exercicios;
 
 import java.util.Scanner;
 

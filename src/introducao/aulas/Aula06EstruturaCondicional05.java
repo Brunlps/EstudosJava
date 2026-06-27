@@ -1,4 +1,4 @@
-package src.introducao;
+package src.introducao.aulas;
 
 public class Aula06EstruturaCondicional05 {
     static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.introducao;
+package src.introducao.aulas;
 
 public class Aula08EstruturaRepeticaoWhile {
     static void main(String[] args) {
